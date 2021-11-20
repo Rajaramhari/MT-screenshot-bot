@@ -38,6 +38,7 @@
     "AUTH_USERS": {
       "description": "Authorised user(s) id separated by space.",
       "value": ""
+     "required": false
     },
     "MAX_PROCESSES_PER_USER": {
       "description": "Number of parallel processes each user can have, defaults to 2.",
